@@ -2,5 +2,3 @@
 Turn on trains
 
 If you need help join my Discord
-
-dsc.gg/cmdscripts
